@@ -1,19 +1,21 @@
-# Apollo Studio
+# 阿波罗工作室（Apollo Studio）
 
-### Fly your Launchpad to the moon. ☆.。.:*・°☆
+### 让你的Launchpad飞向月球 ☆.。.:*・°☆
 
 <p align="center">
-  <img src="https://github.com/mat1jaczyyy/apollo-studio/raw/master/Assets/readme.png">
+  <img src="https://github.com/Jikexiaobai/apollo-studio/raw/master/Assets/readme.png">
 </p>
 <br>
+Apollo Studio 是 Launchpad 灯光效果的独立编辑器和实时播放引擎，其灵感来自 Ableton Live 的传统工作流程。 创新在于支持真正的 RGB 颜色（全部为 262k！）、改进的工作流程和更好的资源管理。 Apollo Studio 没有任何音频功能，因为它被设计为与 Ableton Live 一起运行，这在运行与音频相关的任务时已经证明了它的稳健性。 减轻 Live 引擎的所有负担也应该可以改善音频质量和输入延迟。 Apollo Studio 充分利用了现代处理器的多线程功能，还允许全局调整灯光效果的强度，确保每个人都可以运行所有项目文件，只要他们的设置可以支持它们。
+<br>
+Apollo Studio 解决了我们每天在 Live 中遇到的所有问题，包括不直观的工作流程、有限的调色板、不一致的撤消行为、Launchpad 模型之间的差异、CPU 延迟、大内存使用量等； 同时带来新的和革命性的功能。
 
-Apollo Studio is a standalone editor and live playback engine for Launchpad light effects, inspired by the traditional workflow of Ableton Live. The innovation lies in support for true RGB colors (all 262k of them!), an improved workflow and better resource management. Apollo Studio has no audio capabilities whatsoever, as it's designed to run alongside Ableton Live which has proven its robustness when it comes to running audio-related tasks. Taking all that load off Live's engine should improve audio quality and input lag, too. Apollo Studio takes full advantage of the multithreading capabilities of modern processors and also allows for adjusting the intensity of the light effects globally, making sure everyone can run all project files as much as their setup can support them.
+## 中文简体版本说明
 
-Apollo Studio solves all the problems we experience every day in Live including the unintuitive workflow, limited color palette, inconsistent undo behavior, differences between Launchpad models, CPU lag, large RAM usage and more; while bringing new and revolutionary features to the table.
+这是一个针对中国玩家使用的仅有中文简体语言的Apollo，目的仅仅是为了方便不会英语的中国用户更好的使用Apollo，由翻译导致的的所有问题与原团队无关。原项目地址：[mat1jaczyyy/apollo-studio](https://github.com/mat1jaczyyy/apollo-studio)。
+## 示范
 
-## Demonstration
-
-Here are a few Launchpad covers created by Launchpad enthusiasts entirely in Apollo Studio. See for yourself what our software is capable of.
+以下是一些 Launchpad 爱好者完全在 Apollo Studio 中创建的 Launchpad 封面。 亲眼看看我们的软件有哪些功能。
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=a-MwTVH-wX8" title="Terravita x Chime x Akylla - Go Higher">
@@ -33,17 +35,17 @@ Here are a few Launchpad covers created by Launchpad enthusiasts entirely in Apo
   </a>
 </p>
 
-## Getting Started
+## 入门
 
-Download Apollo Studio from the [Releases](https://github.com/mat1jaczyyy/apollo-studio/releases) page. Configure your Launchpads in the Preferences and start a new Project to begin working. We recommend you read the [Documentation](https://github.com/mat1jaczyyy/apollo-studio/wiki) or check out the [Video Tutorials](https://www.youtube.com/playlist?list=PLKC4R3X00beY0aB_f_ZIa3shqJX7do4mH).
+从[发布页面](https://github.com/Jikexiaobai/apollo-studio/releases)下载 Apollo Studio。 在首选项中配置您的启动板并启动一个新项目以开始工作。 我们建议您[阅读文档](https://github.com/Jikexiaobai/apollo-studio/wiki)或查看[视频教程](https://www.youtube.com/playlist?list=PLKC4R3X00beY0aB_f_ZIa3shqJX7do4mH)。
 
-## Documentation and Support
+## 文档和支持
 
-You can take a look at the [GitHub Wikis](https://github.com/mat1jaczyyy/apollo-studio/wiki) for all documentation on Apollo Studio. Everything you might ask for should be documented there. If it isn't, feel free to ask in our Discord server, or open an issue. You can also check out the [Video Tutorials](https://www.youtube.com/playlist?list=PLKC4R3X00beY0aB_f_ZIa3shqJX7do4mH).
+您可以查看 [GitHub Wikis](https://github.com/Jikexiaobai/apollo-studio/wiki) 以获取有关 Apollo Studio 的所有文档。 您可能要求的所有内容都应该在那里记录。 如果不是，请随时在我们的 Discord 服务器中询问，或打开一个问题。 您还可以查看[视频教程](https://www.youtube.com/playlist?list=PLKC4R3X00beY0aB_f_ZIa3shqJX7do4mH)。
 
-## Special thanks
+## 特别感谢
 
-You are the people who make Apollo Studio possible.
+你们是使阿波罗工作室成为可能的人。
 
 * [Brendonovich](https://github.com/Brendonovich) for actively contributing features to Apollo Studio.
 * [vaaski](https://vaa.ski/) for expressing interest early in the project, even if it didn't work out ultimately; and maintaining the website for the project.
